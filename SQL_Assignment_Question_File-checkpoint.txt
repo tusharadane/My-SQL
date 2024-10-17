@@ -1,0 +1,24 @@
+Q1) Find employees whose salary is between 40,000 and 50,000.
+Q2) Retrieve details of employees whose Eid is between 5 and 10.
+Q3) Get details of employees who work in the 'IT' or 'HR' departments.
+Q4) Find employees whose post is either 'Manager' or 'Analyst'.
+Q5) Retrieve employees who work in the 'Finance' department and have a salary greater than 50,000.
+Q6) Get details of employees whose first name is 'Michael' and last name is 'Miller'.
+Q7) Find employees who work in the 'HR' department or are 'Managers'.
+Q8) Retrieve details of employees whose salary is less than 45,000 or greater than 55,000.
+Q9) Get details of employees who are not 'Developers'.
+Q10) Find employees whose salary is not 50,000.
+Q11) Find employees whose first name starts with 'E'.
+Q12) Retrieve details of employees whose last name contains 'son'.
+Q13) Find employees whose first name is exactly four letters long.
+Q14) Retrieve all employees, ordered by their salary in descending order.
+Q15) Get details of employees, ordered by department and then by salary within each department.
+Q16) Retrieve the top 5 highest paid employees.
+Q17) Retrieve the next 5 employees after skipping the first 5.
+Q18) Find employees whose Eid is between 3 and 10 and are in the 'Finance' department.
+Q19) Retrieve details of employees whose salary is between 45,000 and 55,000 and whose post is not 'Assistant'.
+Q20) Get details of employees who work in the 'IT' or 'Finance' departments and have a salary greater than 50,000.
+Q21) Find employees whose post is either 'Developer' or 'Manager' and whose Eid is between 5 and 15.
+Q22) Get details of employees whose first name starts with 'M' and are either 'Analysts' or 'Accountants'.
+Q23) Get details of employees who are not 'Managers' and have a salary between 45,000 and 60,000.
+Q24) Retrieve details of employees whose first name contains 'li' and are 'Analysts'.
